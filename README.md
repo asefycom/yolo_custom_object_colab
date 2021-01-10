@@ -1,2 +1,3 @@
-# yolo_custom_object_colab
-Resources for the course titled "Custom Object Detection by Yolo ", from HamRuyesh.com.
+## See the video course on HamRuyesh :
+
+[Traing YOLO v3/v4 to Detect Multiple Custom Objects](https://hamruyesh.com/product/custom-object-detection-using-yolo-colab-tutorial/)
